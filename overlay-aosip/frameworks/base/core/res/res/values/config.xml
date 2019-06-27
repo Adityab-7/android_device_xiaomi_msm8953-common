@@ -27,4 +27,7 @@
     <integer name="config_deviceHardwareKeys">83</integer>
     
     <bool name="config_button_brightness_support">true</bool>
+
+<!-- Whether to show emergency button in power menu -->
+    <bool name="config_showEmergencyButtonInPowerMenu">true</bool>
 </resources>
